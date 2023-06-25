@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vacant2333&show_icons=true&theme=flag-india&count_private=true&hide_rank=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vacant2333&layout=donut)
 <!--
 **Vacant2333/Vacant2333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
