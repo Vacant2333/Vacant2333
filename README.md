@@ -8,9 +8,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3796](https://github.com/karmada-io/karmada/pull/3796) in [karmada-io/karmada](https://github.com/karmada-io/karmada)
-2. 💪 Opened PR [#991](https://github.com/hwameistor/hwameistor/pull/991) in [hwameistor/hwameistor](https://github.com/hwameistor/hwameistor)
-3. 🗣 Commented on [#988](https://github.com/hwameistor/hwameistor/issues/988#issuecomment-1635373883) in [hwameistor/hwameistor](https://github.com/hwameistor/hwameistor)
-4. 🗣 Commented on [#935](https://github.com/hwameistor/hwameistor/issues/935#issuecomment-1630220788) in [hwameistor/hwameistor](https://github.com/hwameistor/hwameistor)
-5. 💪 Opened PR [#979](https://github.com/hwameistor/hwameistor/pull/979) in [hwameistor/hwameistor](https://github.com/hwameistor/hwameistor)
+1. 🗣 Commented on [#987](https://github.com/hwameistor/hwameistor/issues/987#issuecomment-1637492606) in [hwameistor/hwameistor](https://github.com/hwameistor/hwameistor)
+2. 💪 Opened PR [#3796](https://github.com/karmada-io/karmada/pull/3796) in [karmada-io/karmada](https://github.com/karmada-io/karmada)
+3. 💪 Opened PR [#991](https://github.com/hwameistor/hwameistor/pull/991) in [hwameistor/hwameistor](https://github.com/hwameistor/hwameistor)
+4. 🗣 Commented on [#988](https://github.com/hwameistor/hwameistor/issues/988#issuecomment-1635373883) in [hwameistor/hwameistor](https://github.com/hwameistor/hwameistor)
+5. 🗣 Commented on [#935](https://github.com/hwameistor/hwameistor/issues/935#issuecomment-1630220788) in [hwameistor/hwameistor](https://github.com/hwameistor/hwameistor)
 <!--END_SECTION:activity-->
