@@ -8,9 +8,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4006](https://github.com/karmada-io/karmada/issues/4006) in [karmada-io/karmada](https://github.com/karmada-io/karmada)
-2. 🗣 Commented on [#3963](https://github.com/karmada-io/karmada/issues/3963#issuecomment-1690043269) in [karmada-io/karmada](https://github.com/karmada-io/karmada)
-3. 💪 Opened PR [#46656](https://github.com/istio/istio/pull/46656) in [istio/istio](https://github.com/istio/istio)
-4. 🗣 Commented on [#3963](https://github.com/karmada-io/karmada/issues/3963#issuecomment-1688231333) in [karmada-io/karmada](https://github.com/karmada-io/karmada)
-5. 🗣 Commented on [#52](https://github.com/karmada-io/community/issues/52#issuecomment-1688221436) in [karmada-io/community](https://github.com/karmada-io/community)
+1. 💪 Opened PR [#4009](https://github.com/karmada-io/karmada/pull/4009) in [karmada-io/karmada](https://github.com/karmada-io/karmada)
+2. ❗ Opened issue [#4006](https://github.com/karmada-io/karmada/issues/4006) in [karmada-io/karmada](https://github.com/karmada-io/karmada)
+3. 🗣 Commented on [#3963](https://github.com/karmada-io/karmada/issues/3963#issuecomment-1690043269) in [karmada-io/karmada](https://github.com/karmada-io/karmada)
+4. 💪 Opened PR [#46656](https://github.com/istio/istio/pull/46656) in [istio/istio](https://github.com/istio/istio)
+5. 🗣 Commented on [#3963](https://github.com/karmada-io/karmada/issues/3963#issuecomment-1688231333) in [karmada-io/karmada](https://github.com/karmada-io/karmada)
 <!--END_SECTION:activity-->
