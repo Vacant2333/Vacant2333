@@ -8,9 +8,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#4073](https://github.com/karmada-io/karmada/issues/4073) in [karmada-io/karmada](https://github.com/karmada-io/karmada)
-2. 🗣 Commented on [#4073](https://github.com/karmada-io/karmada/issues/4073#issuecomment-1723040820) in [karmada-io/karmada](https://github.com/karmada-io/karmada)
-3. ❗ Opened issue [#4073](https://github.com/karmada-io/karmada/issues/4073) in [karmada-io/karmada](https://github.com/karmada-io/karmada)
-4. 🔒 Closed issue [#4006](https://github.com/karmada-io/karmada/issues/4006) in [karmada-io/karmada](https://github.com/karmada-io/karmada)
-5. 🗣 Commented on [#4009](https://github.com/karmada-io/karmada/pull/4009#issuecomment-1697022116) in [karmada-io/karmada](https://github.com/karmada-io/karmada)
+1. 💪 Opened PR [#4074](https://github.com/karmada-io/karmada/pull/4074) in [karmada-io/karmada](https://github.com/karmada-io/karmada)
+2. 🔒 Closed issue [#4073](https://github.com/karmada-io/karmada/issues/4073) in [karmada-io/karmada](https://github.com/karmada-io/karmada)
+3. 🗣 Commented on [#4073](https://github.com/karmada-io/karmada/issues/4073#issuecomment-1723040820) in [karmada-io/karmada](https://github.com/karmada-io/karmada)
+4. ❗ Opened issue [#4073](https://github.com/karmada-io/karmada/issues/4073) in [karmada-io/karmada](https://github.com/karmada-io/karmada)
+5. 🔒 Closed issue [#4006](https://github.com/karmada-io/karmada/issues/4006) in [karmada-io/karmada](https://github.com/karmada-io/karmada)
 <!--END_SECTION:activity-->
