@@ -8,9 +8,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10494](https://github.com/apache/apisix/issues/10494#issuecomment-1827081604) in [apache/apisix](https://github.com/apache/apisix)
-2. 💪 Opened PR [#4324](https://github.com/karmada-io/karmada/pull/4324) in [karmada-io/karmada](https://github.com/karmada-io/karmada)
-3. 💪 Opened PR [#2892](https://github.com/apache/apisix-dashboard/pull/2892) in [apache/apisix-dashboard](https://github.com/apache/apisix-dashboard)
-4. 🗣 Commented on [#508](https://github.com/karmada-io/website/pull/508#issuecomment-1793471517) in [karmada-io/website](https://github.com/karmada-io/website)
-5. 💪 Opened PR [#508](https://github.com/karmada-io/website/pull/508) in [karmada-io/website](https://github.com/karmada-io/website)
+1. 🗣 Commented on [#10494](https://github.com/apache/apisix/issues/10494#issuecomment-1827295541) in [apache/apisix](https://github.com/apache/apisix)
+2. 🗣 Commented on [#10494](https://github.com/apache/apisix/issues/10494#issuecomment-1827081604) in [apache/apisix](https://github.com/apache/apisix)
+3. 💪 Opened PR [#4324](https://github.com/karmada-io/karmada/pull/4324) in [karmada-io/karmada](https://github.com/karmada-io/karmada)
+4. 💪 Opened PR [#2892](https://github.com/apache/apisix-dashboard/pull/2892) in [apache/apisix-dashboard](https://github.com/apache/apisix-dashboard)
+5. 🗣 Commented on [#508](https://github.com/karmada-io/website/pull/508#issuecomment-1793471517) in [karmada-io/website](https://github.com/karmada-io/website)
 <!--END_SECTION:activity-->
