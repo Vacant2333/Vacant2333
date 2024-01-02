@@ -8,9 +8,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9542](https://github.com/apache/apisix/issues/9542#issuecomment-1873696505) in [apache/apisix](https://github.com/apache/apisix)
-2. 🗣 Commented on [#10618](https://github.com/apache/apisix/issues/10618#issuecomment-1873651091) in [apache/apisix](https://github.com/apache/apisix)
-3. 🗣 Commented on [#10613](https://github.com/apache/apisix/pull/10613#issuecomment-1871664932) in [apache/apisix](https://github.com/apache/apisix)
-4. 🗣 Commented on [#10730](https://github.com/apache/apisix/issues/10730#issuecomment-1871258115) in [apache/apisix](https://github.com/apache/apisix)
-5. 💪 Opened PR [#67](https://github.com/karmada-io/community/pull/67) in [karmada-io/community](https://github.com/karmada-io/community)
+1. 🗣 Commented on [#10739](https://github.com/apache/apisix/issues/10739#issuecomment-1873717261) in [apache/apisix](https://github.com/apache/apisix)
+2. 🗣 Commented on [#9542](https://github.com/apache/apisix/issues/9542#issuecomment-1873696505) in [apache/apisix](https://github.com/apache/apisix)
+3. 🗣 Commented on [#10618](https://github.com/apache/apisix/issues/10618#issuecomment-1873651091) in [apache/apisix](https://github.com/apache/apisix)
+4. 🗣 Commented on [#10613](https://github.com/apache/apisix/pull/10613#issuecomment-1871664932) in [apache/apisix](https://github.com/apache/apisix)
+5. 🗣 Commented on [#10730](https://github.com/apache/apisix/issues/10730#issuecomment-1871258115) in [apache/apisix](https://github.com/apache/apisix)
 <!--END_SECTION:activity-->
