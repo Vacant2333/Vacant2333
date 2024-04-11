@@ -1,7 +1,7 @@
 name: Update README
 on:
   schedule:
-    - cron: "*/120 * * * *"
+    - cron: "*/360 * * * *"
   workflow_dispatch:
 jobs:
   build:
@@ -15,4 +15,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          MAX_LINES: 20
+          MAX_LINES: 25

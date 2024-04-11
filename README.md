@@ -1,12 +1,20 @@
-### Hi there 👋👋👋
+### About Me
+@karmada-io Reviewer, @hwameistor Member, @volcano-sh Contributor
 
-<div style="display: flex; gap: 10px;">
+**24届毕业生, 正在寻找一份Kubernetes/Go 相关的工作.**
+
+**A 24th graduate seeking a Kubernetes/Go-related job.**
+
+OpenSource Participation:
+- LFX Mentorship 2024 @volcano-sh [CNCF - Volcano: Volcano supports multi-cluster AI workloads scheduling](https://mentorship.lfx.linuxfoundation.org/project/132a4971-6969-4ca6-a695-783ece3ac768)
+- OSPP 2023 @karmada-io [Karmada namespace deletion protection mechanism](https://summer-ospp.ac.cn/2023/org/prodetail/235c40372?lang=en&list=pro)
+
+<div style="display: flex; gap: 3px;">
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Vacant2333&show_icons=true&theme=flag-india&count_private=true&hide_rank=true&include_all_commits=true">
   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vacant2333&layout=donut">
 </div>
 
-### :zap: Recent Activity
-
+### Recent Activities
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3385](https://github.com/volcano-sh/volcano/issues/3385#issuecomment-2041765276) in [volcano-sh/volcano](https://github.com/volcano-sh/volcano)
 2. 🗣 Commented on [#3385](https://github.com/volcano-sh/volcano/issues/3385#issuecomment-2041299534) in [volcano-sh/volcano](https://github.com/volcano-sh/volcano)
