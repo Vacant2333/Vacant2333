@@ -1,11 +1,8 @@
 ### About Me
 [@karmada-io](https://github.com/karmada-io) Reviewer, [@hwameistor](https://github.com/hwameistor) Member, [@volcano-sh](https://github.com/volcano-sh) Contributor
 
-**24届毕业生, 正在寻找一份Kubernetes/Go 相关的工作.**
-
-**A 24th graduate seeking a Kubernetes/Go-related job.**
-
 OpenSource Participation:
+- OSPP 2024 [@volcano-sh](https://github.com/volcano-sh) [Volcano supports queue capacity management capabilities in multi-cluster AI workload scheduling](https://summer-ospp.ac.cn/org/prodetail/243ba0505?list=org&navpage=org)
 - LFX Mentorship 2024 [@volcano-sh](https://github.com/volcano-sh) [CNCF - Volcano: Volcano supports multi-cluster AI workloads scheduling](https://mentorship.lfx.linuxfoundation.org/project/132a4971-6969-4ca6-a695-783ece3ac768)
 - OSPP 2023 [@karmada-io](https://github.com/karmada-io) [Karmada namespace deletion protection mechanism](https://summer-ospp.ac.cn/2023/org/prodetail/235c40372?lang=en&list=pro)
 
