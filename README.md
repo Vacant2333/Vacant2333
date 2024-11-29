@@ -1,5 +1,5 @@
 ### About Me
-[@karmada-io](https://github.com/karmada-io) Reviewer, [@hwameistor](https://github.com/hwameistor) Member, [@volcano-sh](https://github.com/volcano-sh) Contributor
+[@karmada-io](https://github.com/karmada-io) Reviewer, [@hwameistor](https://github.com/hwameistor) Member, [@volcano-sh](https://github.com/volcano-sh) Member, [volcano-global](https://github.com/volcano-sh/volcano-global) Creator
 
 OpenSource Participation:
 - OSPP 2024 [@volcano-sh](https://github.com/volcano-sh) [Volcano supports queue capacity management capabilities in multi-cluster AI workload scheduling](https://summer-ospp.ac.cn/org/prodetail/243ba0505?list=org&navpage=org)
