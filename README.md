@@ -13,12 +13,12 @@ OpenSource Participation:
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7879](https://github.com/aws/karpenter-provider-aws/pull/7879#issuecomment-2738878142) in [aws/karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws)
-2. 💪 Opened PR [#54](https://github.com/cloudpilot-ai/docs/pull/54) in [cloudpilot-ai/docs](https://github.com/cloudpilot-ai/docs)
-3. 💪 Opened PR [#53](https://github.com/cloudpilot-ai/docs/pull/53) in [cloudpilot-ai/docs](https://github.com/cloudpilot-ai/docs)
-4. 🗣 Commented on [#4030](https://github.com/volcano-sh/volcano/issues/4030#issuecomment-2677317716) in [volcano-sh/volcano](https://github.com/volcano-sh/volcano)
-5. 🗣 Commented on [#4030](https://github.com/volcano-sh/volcano/issues/4030#issuecomment-2673955727) in [volcano-sh/volcano](https://github.com/volcano-sh/volcano)
-6. 🎉 Merged PR [#181](https://github.com/cloudpilot-ai/karpenter-provider-alibabacloud/pull/181) in [cloudpilot-ai/karpenter-provider-alibabacloud](https://github.com/cloudpilot-ai/karpenter-provider-alibabacloud)
+1. 💪 Opened PR [#207](https://github.com/cloudpilot-ai/karpenter-provider-alibabacloud/pull/207) in [cloudpilot-ai/karpenter-provider-alibabacloud](https://github.com/cloudpilot-ai/karpenter-provider-alibabacloud)
+2. 🗣 Commented on [#7879](https://github.com/aws/karpenter-provider-aws/pull/7879#issuecomment-2738878142) in [aws/karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws)
+3. 💪 Opened PR [#54](https://github.com/cloudpilot-ai/docs/pull/54) in [cloudpilot-ai/docs](https://github.com/cloudpilot-ai/docs)
+4. 💪 Opened PR [#53](https://github.com/cloudpilot-ai/docs/pull/53) in [cloudpilot-ai/docs](https://github.com/cloudpilot-ai/docs)
+5. 🗣 Commented on [#4030](https://github.com/volcano-sh/volcano/issues/4030#issuecomment-2677317716) in [volcano-sh/volcano](https://github.com/volcano-sh/volcano)
+6. 🗣 Commented on [#4030](https://github.com/volcano-sh/volcano/issues/4030#issuecomment-2673955727) in [volcano-sh/volcano](https://github.com/volcano-sh/volcano)
 7. 🗣 Commented on [#7310](https://github.com/aws/karpenter-provider-aws/pull/7310#issuecomment-2608728589) in [aws/karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws)
 8. 🗣 Commented on [#7549](https://github.com/aws/karpenter-provider-aws/pull/7549#issuecomment-2608672287) in [aws/karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws)
 9. 🗣 Commented on [#9](https://github.com/volcano-sh/volcano-global/pull/9#issuecomment-2585324795) in [volcano-sh/volcano-global](https://github.com/volcano-sh/volcano-global)
