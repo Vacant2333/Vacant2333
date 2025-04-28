@@ -13,14 +13,14 @@ OpenSource Participation:
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#66](https://github.com/cloudpilot-ai/docs/pull/66) in [cloudpilot-ai/docs](https://github.com/cloudpilot-ai/docs)
-2. 💪 Opened PR [#4](https://github.com/jwcesign/gitautomator/pull/4) in [jwcesign/gitautomator](https://github.com/jwcesign/gitautomator)
-3. 🗣 Commented on [#216](https://github.com/cloudpilot-ai/karpenter-provider-alibabacloud/pull/216#issuecomment-2785359491) in [cloudpilot-ai/karpenter-provider-alibabacloud](https://github.com/cloudpilot-ai/karpenter-provider-alibabacloud)
-4. 🗣 Commented on [#7623](https://github.com/aws/karpenter-provider-aws/pull/7623#issuecomment-2785173652) in [aws/karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws)
-5. 💪 Opened PR [#213](https://github.com/cloudpilot-ai/karpenter-provider-alibabacloud/pull/213) in [cloudpilot-ai/karpenter-provider-alibabacloud](https://github.com/cloudpilot-ai/karpenter-provider-alibabacloud)
-6. 💪 Opened PR [#212](https://github.com/cloudpilot-ai/karpenter-provider-alibabacloud/pull/212) in [cloudpilot-ai/karpenter-provider-alibabacloud](https://github.com/cloudpilot-ai/karpenter-provider-alibabacloud)
-7. 🎉 Merged PR [#3](https://github.com/cloudpilot-ai/migrate/pull/3) in [cloudpilot-ai/migrate](https://github.com/cloudpilot-ai/migrate)
-8. 💪 Opened PR [#210](https://github.com/cloudpilot-ai/karpenter-provider-alibabacloud/pull/210) in [cloudpilot-ai/karpenter-provider-alibabacloud](https://github.com/cloudpilot-ai/karpenter-provider-alibabacloud)
+1. 🗣 Commented on [#66](https://github.com/cloudpilot-ai/docs/pull/66#issuecomment-2834125192) in [cloudpilot-ai/docs](https://github.com/cloudpilot-ai/docs)
+2. 💪 Opened PR [#66](https://github.com/cloudpilot-ai/docs/pull/66) in [cloudpilot-ai/docs](https://github.com/cloudpilot-ai/docs)
+3. 💪 Opened PR [#4](https://github.com/jwcesign/gitautomator/pull/4) in [jwcesign/gitautomator](https://github.com/jwcesign/gitautomator)
+4. 🗣 Commented on [#216](https://github.com/cloudpilot-ai/karpenter-provider-alibabacloud/pull/216#issuecomment-2785359491) in [cloudpilot-ai/karpenter-provider-alibabacloud](https://github.com/cloudpilot-ai/karpenter-provider-alibabacloud)
+5. 🗣 Commented on [#7623](https://github.com/aws/karpenter-provider-aws/pull/7623#issuecomment-2785173652) in [aws/karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws)
+6. 💪 Opened PR [#213](https://github.com/cloudpilot-ai/karpenter-provider-alibabacloud/pull/213) in [cloudpilot-ai/karpenter-provider-alibabacloud](https://github.com/cloudpilot-ai/karpenter-provider-alibabacloud)
+7. 💪 Opened PR [#212](https://github.com/cloudpilot-ai/karpenter-provider-alibabacloud/pull/212) in [cloudpilot-ai/karpenter-provider-alibabacloud](https://github.com/cloudpilot-ai/karpenter-provider-alibabacloud)
+8. 🎉 Merged PR [#3](https://github.com/cloudpilot-ai/migrate/pull/3) in [cloudpilot-ai/migrate](https://github.com/cloudpilot-ai/migrate)
 9. 💪 Opened PR [#209](https://github.com/cloudpilot-ai/karpenter-provider-alibabacloud/pull/209) in [cloudpilot-ai/karpenter-provider-alibabacloud](https://github.com/cloudpilot-ai/karpenter-provider-alibabacloud)
 10. 💪 Opened PR [#57](https://github.com/cloudpilot-ai/docs/pull/57) in [cloudpilot-ai/docs](https://github.com/cloudpilot-ai/docs)
 11. 💪 Opened PR [#208](https://github.com/cloudpilot-ai/karpenter-provider-alibabacloud/pull/208) in [cloudpilot-ai/karpenter-provider-alibabacloud](https://github.com/cloudpilot-ai/karpenter-provider-alibabacloud)
