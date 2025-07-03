@@ -13,10 +13,10 @@ OpenSource Participation:
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#96](https://github.com/cloudpilot-ai/docs/pull/96) in [cloudpilot-ai/docs](https://github.com/cloudpilot-ai/docs)
-2. 🗣 Commented on [#22](https://github.com/volcano-sh/volcano-global/pull/22#issuecomment-2987101564) in [volcano-sh/volcano-global](https://github.com/volcano-sh/volcano-global)
-3. 🗣 Commented on [#21](https://github.com/volcano-sh/volcano-global/pull/21#issuecomment-2987045407) in [volcano-sh/volcano-global](https://github.com/volcano-sh/volcano-global)
-4. 🎉 Merged PR [#1](https://github.com/cloudpilot-ai/ghostpod/pull/1) in [cloudpilot-ai/ghostpod](https://github.com/cloudpilot-ai/ghostpod)
+1. 🗣 Commented on [#63](https://github.com/cloudpilot-ai/karpenter-provider-gcp/pull/63#issuecomment-3031795704) in [cloudpilot-ai/karpenter-provider-gcp](https://github.com/cloudpilot-ai/karpenter-provider-gcp)
+2. 🎉 Merged PR [#96](https://github.com/cloudpilot-ai/docs/pull/96) in [cloudpilot-ai/docs](https://github.com/cloudpilot-ai/docs)
+3. 🗣 Commented on [#22](https://github.com/volcano-sh/volcano-global/pull/22#issuecomment-2987101564) in [volcano-sh/volcano-global](https://github.com/volcano-sh/volcano-global)
+4. 🗣 Commented on [#21](https://github.com/volcano-sh/volcano-global/pull/21#issuecomment-2987045407) in [volcano-sh/volcano-global](https://github.com/volcano-sh/volcano-global)
 5. 💪 Opened PR [#1](https://github.com/cloudpilot-ai/ghostpod/pull/1) in [cloudpilot-ai/ghostpod](https://github.com/cloudpilot-ai/ghostpod)
 6. 🗣 Commented on [#17](https://github.com/volcano-sh/volcano-global/pull/17#issuecomment-2921120444) in [volcano-sh/volcano-global](https://github.com/volcano-sh/volcano-global)
 7. 🗣 Commented on [#7623](https://github.com/aws/karpenter-provider-aws/pull/7623#issuecomment-2785173652) in [aws/karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws)
