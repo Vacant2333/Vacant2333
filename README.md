@@ -13,11 +13,11 @@ OpenSource Participation:
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/cloudpilot-ai/migrate/pull/8) in [cloudpilot-ai/migrate](https://github.com/cloudpilot-ai/migrate)
-2. 💪 Opened PR [#108](https://github.com/cloudpilot-ai/docs/pull/108) in [cloudpilot-ai/docs](https://github.com/cloudpilot-ai/docs)
-3. 💪 Opened PR [#102](https://github.com/cloudpilot-ai/docs/pull/102) in [cloudpilot-ai/docs](https://github.com/cloudpilot-ai/docs)
-4. 🗣 Commented on [#63](https://github.com/cloudpilot-ai/karpenter-provider-gcp/pull/63#issuecomment-3031795704) in [cloudpilot-ai/karpenter-provider-gcp](https://github.com/cloudpilot-ai/karpenter-provider-gcp)
-5. 🗣 Commented on [#22](https://github.com/volcano-sh/volcano-global/pull/22#issuecomment-2987101564) in [volcano-sh/volcano-global](https://github.com/volcano-sh/volcano-global)
+1. 🗣 Commented on [#147](https://github.com/karmada-io/community/issues/147#issuecomment-3138876264) in [karmada-io/community](https://github.com/karmada-io/community)
+2. 💪 Opened PR [#8](https://github.com/cloudpilot-ai/migrate/pull/8) in [cloudpilot-ai/migrate](https://github.com/cloudpilot-ai/migrate)
+3. 💪 Opened PR [#108](https://github.com/cloudpilot-ai/docs/pull/108) in [cloudpilot-ai/docs](https://github.com/cloudpilot-ai/docs)
+4. 💪 Opened PR [#102](https://github.com/cloudpilot-ai/docs/pull/102) in [cloudpilot-ai/docs](https://github.com/cloudpilot-ai/docs)
+5. 🗣 Commented on [#63](https://github.com/cloudpilot-ai/karpenter-provider-gcp/pull/63#issuecomment-3031795704) in [cloudpilot-ai/karpenter-provider-gcp](https://github.com/cloudpilot-ai/karpenter-provider-gcp)
 6. 🗣 Commented on [#21](https://github.com/volcano-sh/volcano-global/pull/21#issuecomment-2987045407) in [volcano-sh/volcano-global](https://github.com/volcano-sh/volcano-global)
 7. 🗣 Commented on [#7623](https://github.com/aws/karpenter-provider-aws/pull/7623#issuecomment-2785173652) in [aws/karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws)
 8. 💪 Opened PR [#212](https://github.com/cloudpilot-ai/karpenter-provider-alibabacloud/pull/212) in [cloudpilot-ai/karpenter-provider-alibabacloud](https://github.com/cloudpilot-ai/karpenter-provider-alibabacloud)
