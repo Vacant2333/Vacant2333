@@ -13,9 +13,9 @@ OpenSource Participation:
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#240](https://github.com/cloudpilot-ai/karpenter-provider-alibabacloud/pull/240) in [cloudpilot-ai/karpenter-provider-alibabacloud](https://github.com/cloudpilot-ai/karpenter-provider-alibabacloud)
-2. 💪 Opened PR [#112](https://github.com/cloudpilot-ai/docs/pull/112) in [cloudpilot-ai/docs](https://github.com/cloudpilot-ai/docs)
-3. 💪 Opened PR [#8](https://github.com/cloudpilot-ai/migrate/pull/8) in [cloudpilot-ai/migrate](https://github.com/cloudpilot-ai/migrate)
+1. 🚀 Published release [v1.0](https://github.com/Vacant2333/ack_migrate/releases/tag/v1.0) in [Vacant2333/ack_migrate](https://github.com/Vacant2333/ack_migrate)
+2. 🎉 Merged PR [#240](https://github.com/cloudpilot-ai/karpenter-provider-alibabacloud/pull/240) in [cloudpilot-ai/karpenter-provider-alibabacloud](https://github.com/cloudpilot-ai/karpenter-provider-alibabacloud)
+3. 💪 Opened PR [#112](https://github.com/cloudpilot-ai/docs/pull/112) in [cloudpilot-ai/docs](https://github.com/cloudpilot-ai/docs)
 4. 💪 Opened PR [#108](https://github.com/cloudpilot-ai/docs/pull/108) in [cloudpilot-ai/docs](https://github.com/cloudpilot-ai/docs)
 5. 🗣 Commented on [#63](https://github.com/cloudpilot-ai/karpenter-provider-gcp/pull/63#issuecomment-3031795704) in [cloudpilot-ai/karpenter-provider-gcp](https://github.com/cloudpilot-ai/karpenter-provider-gcp)
 6. 🗣 Commented on [#21](https://github.com/volcano-sh/volcano-global/pull/21#issuecomment-2987045407) in [volcano-sh/volcano-global](https://github.com/volcano-sh/volcano-global)
