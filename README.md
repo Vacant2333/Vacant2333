@@ -13,11 +13,11 @@ OpenSource Participation:
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#125](https://github.com/cloudpilot-ai/docs/pull/125) in [cloudpilot-ai/docs](https://github.com/cloudpilot-ai/docs)
-2. 💪 Opened PR [#124](https://github.com/cloudpilot-ai/docs/pull/124) in [cloudpilot-ai/docs](https://github.com/cloudpilot-ai/docs)
-3. 🚀 Published release [v1.0](https://github.com/Vacant2333/ack_migrate/releases/tag/v1.0) in [Vacant2333/ack_migrate](https://github.com/Vacant2333/ack_migrate)
-4. 🎉 Merged PR [#240](https://github.com/cloudpilot-ai/karpenter-provider-alibabacloud/pull/240) in [cloudpilot-ai/karpenter-provider-alibabacloud](https://github.com/cloudpilot-ai/karpenter-provider-alibabacloud)
-5. 💪 Opened PR [#123](undefined) in [cloudpilot-ai/docs](https://github.com/cloudpilot-ai/docs)
+1. 💪 Opened PR [#128](https://github.com/cloudpilot-ai/docs/pull/128) in [cloudpilot-ai/docs](https://github.com/cloudpilot-ai/docs)
+2. 💪 Opened PR [#125](https://github.com/cloudpilot-ai/docs/pull/125) in [cloudpilot-ai/docs](https://github.com/cloudpilot-ai/docs)
+3. 💪 Opened PR [#124](https://github.com/cloudpilot-ai/docs/pull/124) in [cloudpilot-ai/docs](https://github.com/cloudpilot-ai/docs)
+4. 🚀 Published release [v1.0](https://github.com/Vacant2333/ack_migrate/releases/tag/v1.0) in [Vacant2333/ack_migrate](https://github.com/Vacant2333/ack_migrate)
+5. 🎉 Merged PR [#240](https://github.com/cloudpilot-ai/karpenter-provider-alibabacloud/pull/240) in [cloudpilot-ai/karpenter-provider-alibabacloud](https://github.com/cloudpilot-ai/karpenter-provider-alibabacloud)
 6. 💪 Opened PR [#9](undefined) in [cloudpilot-ai/migrate](https://github.com/cloudpilot-ai/migrate)
 7. 🚀 Published release [v1.0](https://github.com/Vacant2333/ack_migrate/releases/tag/v1.0) in [Vacant2333/ack_migrate](https://github.com/Vacant2333/ack_migrate)
 8. 💪 Opened PR [#119](undefined) in [cloudpilot-ai/docs](https://github.com/cloudpilot-ai/docs)
