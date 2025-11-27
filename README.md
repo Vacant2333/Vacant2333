@@ -13,10 +13,10 @@ OpenSource Participation:
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#148](undefined) in [cloudpilot-ai/docs](https://github.com/cloudpilot-ai/docs)
-2. 💪 Opened PR [#143](undefined) in [cloudpilot-ai/docs](https://github.com/cloudpilot-ai/docs)
-3. 💪 Opened PR [#142](undefined) in [cloudpilot-ai/docs](https://github.com/cloudpilot-ai/docs)
-4. 🚀 Published release [v1.0](https://github.com/Vacant2333/ack_migrate/releases/tag/v1.0) in [Vacant2333/ack_migrate](https://github.com/Vacant2333/ack_migrate)
+1. 💪 Opened PR [#152](undefined) in [cloudpilot-ai/docs](https://github.com/cloudpilot-ai/docs)
+2. 💪 Opened PR [#148](undefined) in [cloudpilot-ai/docs](https://github.com/cloudpilot-ai/docs)
+3. 💪 Opened PR [#143](undefined) in [cloudpilot-ai/docs](https://github.com/cloudpilot-ai/docs)
+4. 💪 Opened PR [#142](undefined) in [cloudpilot-ai/docs](https://github.com/cloudpilot-ai/docs)
 5. 🎉 Merged PR [#240](https://github.com/cloudpilot-ai/karpenter-provider-alibabacloud/pull/240) in [cloudpilot-ai/karpenter-provider-alibabacloud](https://github.com/cloudpilot-ai/karpenter-provider-alibabacloud)
 6. 🚀 Published release [v0.2.1](https://github.com/cloudpilot-ai/migrate/releases/tag/v0.2.1) in [cloudpilot-ai/migrate](https://github.com/cloudpilot-ai/migrate)
 7. 🗣 Commented on [#9](https://github.com/cloudpilot-ai/migrate/pull/9#issuecomment-3252828146) in [cloudpilot-ai/migrate](https://github.com/cloudpilot-ai/migrate)
