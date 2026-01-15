@@ -13,7 +13,7 @@ OpenSource Participation:
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#158](undefined) in [cloudpilot-ai/docs](https://github.com/cloudpilot-ai/docs)
+1. 🗣 Commented on [#181](https://github.com/cloudpilot-ai/karpenter-provider-gcp/pull/181#issuecomment-3752645961) in [cloudpilot-ai/karpenter-provider-gcp](https://github.com/cloudpilot-ai/karpenter-provider-gcp)
 2. 💪 Opened PR [#158](undefined) in [cloudpilot-ai/docs](https://github.com/cloudpilot-ai/docs)
 3. ❌ Merged PR [#152](undefined) in [cloudpilot-ai/docs](https://github.com/cloudpilot-ai/docs)
 4. 💪 Opened PR [#152](undefined) in [cloudpilot-ai/docs](https://github.com/cloudpilot-ai/docs)
