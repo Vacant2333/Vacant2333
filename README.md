@@ -13,8 +13,8 @@ OpenSource Participation:
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/cloudpilot-ai/terraform-provider-cloudpilotai/pull/4#issuecomment-4051741968) in [cloudpilot-ai/terraform-provider-cloudpilotai](https://github.com/cloudpilot-ai/terraform-provider-cloudpilotai)
-2. 💪 Opened PR [#158](undefined) in [cloudpilot-ai/docs](https://github.com/cloudpilot-ai/docs)
+1. 🗣 Commented on [#4](https://github.com/cloudpilot-ai/terraform-provider-cloudpilotai/pull/4#issuecomment-4052450093) in [cloudpilot-ai/terraform-provider-cloudpilotai](https://github.com/cloudpilot-ai/terraform-provider-cloudpilotai)
+2. 🗣 Commented on [#4](https://github.com/cloudpilot-ai/terraform-provider-cloudpilotai/pull/4#issuecomment-4051741968) in [cloudpilot-ai/terraform-provider-cloudpilotai](https://github.com/cloudpilot-ai/terraform-provider-cloudpilotai)
 3. ❌ Merged PR [#152](undefined) in [cloudpilot-ai/docs](https://github.com/cloudpilot-ai/docs)
 4. 💪 Opened PR [#152](undefined) in [cloudpilot-ai/docs](https://github.com/cloudpilot-ai/docs)
 5. ❌ Merged PR [#148](undefined) in [cloudpilot-ai/docs](https://github.com/cloudpilot-ai/docs)
