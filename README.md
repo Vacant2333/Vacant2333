@@ -13,9 +13,9 @@ OpenSource Participation:
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24](https://github.com/cloudpilot-ai/terraform-provider-cloudpilotai/pull/24#issuecomment-4807890427) in [cloudpilot-ai/terraform-provider-cloudpilotai](https://github.com/cloudpilot-ai/terraform-provider-cloudpilotai)
-2. 🗣 Commented on [#11](https://github.com/cloudpilot-ai/terraform-cloudpilotai-eks/pull/11#issuecomment-4798232519) in [cloudpilot-ai/terraform-cloudpilotai-eks](https://github.com/cloudpilot-ai/terraform-cloudpilotai-eks)
-3. ❌ Merged PR [#152](undefined) in [cloudpilot-ai/docs](https://github.com/cloudpilot-ai/docs)
+1. 🗣 Commented on [#25](https://github.com/cloudpilot-ai/terraform-provider-cloudpilotai/pull/25#issuecomment-4852403613) in [cloudpilot-ai/terraform-provider-cloudpilotai](https://github.com/cloudpilot-ai/terraform-provider-cloudpilotai)
+2. 🗣 Commented on [#24](https://github.com/cloudpilot-ai/terraform-provider-cloudpilotai/pull/24#issuecomment-4807890427) in [cloudpilot-ai/terraform-provider-cloudpilotai](https://github.com/cloudpilot-ai/terraform-provider-cloudpilotai)
+3. 🗣 Commented on [#11](https://github.com/cloudpilot-ai/terraform-cloudpilotai-eks/pull/11#issuecomment-4798232519) in [cloudpilot-ai/terraform-cloudpilotai-eks](https://github.com/cloudpilot-ai/terraform-cloudpilotai-eks)
 4. 💪 Opened PR [#152](undefined) in [cloudpilot-ai/docs](https://github.com/cloudpilot-ai/docs)
 5. ❌ Merged PR [#148](undefined) in [cloudpilot-ai/docs](https://github.com/cloudpilot-ai/docs)
 6. 💪 Opened PR [#148](undefined) in [cloudpilot-ai/docs](https://github.com/cloudpilot-ai/docs)
