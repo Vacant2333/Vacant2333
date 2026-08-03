@@ -13,12 +13,12 @@ OpenSource Participation:
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/cloudpilot-ai/terraform-cloudpilotai-gke/pull/2#issuecomment-4978668739) in [cloudpilot-ai/terraform-cloudpilotai-gke](https://github.com/cloudpilot-ai/terraform-cloudpilotai-gke)
-2. 🗣 Commented on [#12](https://github.com/cloudpilot-ai/terraform-cloudpilotai-eks/pull/12#issuecomment-4978667757) in [cloudpilot-ai/terraform-cloudpilotai-eks](https://github.com/cloudpilot-ai/terraform-cloudpilotai-eks)
-3. 🗣 Commented on [#32](https://github.com/cloudpilot-ai/terraform-provider-cloudpilotai/pull/32#issuecomment-4978666811) in [cloudpilot-ai/terraform-provider-cloudpilotai](https://github.com/cloudpilot-ai/terraform-provider-cloudpilotai)
-4. 🗣 Commented on [#28](https://github.com/cloudpilot-ai/terraform-provider-cloudpilotai/pull/28#issuecomment-4901834940) in [cloudpilot-ai/terraform-provider-cloudpilotai](https://github.com/cloudpilot-ai/terraform-provider-cloudpilotai)
-5. 🗣 Commented on [#25](https://github.com/cloudpilot-ai/terraform-provider-cloudpilotai/pull/25#issuecomment-4863672213) in [cloudpilot-ai/terraform-provider-cloudpilotai](https://github.com/cloudpilot-ai/terraform-provider-cloudpilotai)
-6. 🗣 Commented on [#25](https://github.com/cloudpilot-ai/terraform-provider-cloudpilotai/pull/25#issuecomment-4863042192) in [cloudpilot-ai/terraform-provider-cloudpilotai](https://github.com/cloudpilot-ai/terraform-provider-cloudpilotai)
+1. 🗣 Commented on [#34](https://github.com/cloudpilot-ai/terraform-provider-cloudpilotai/pull/34#issuecomment-5164552809) in [cloudpilot-ai/terraform-provider-cloudpilotai](https://github.com/cloudpilot-ai/terraform-provider-cloudpilotai)
+2. 🗣 Commented on [#34](https://github.com/cloudpilot-ai/terraform-provider-cloudpilotai/pull/34#issuecomment-5164222219) in [cloudpilot-ai/terraform-provider-cloudpilotai](https://github.com/cloudpilot-ai/terraform-provider-cloudpilotai)
+3. 🗣 Commented on [#2](https://github.com/cloudpilot-ai/terraform-cloudpilotai-gke/pull/2#issuecomment-4978668739) in [cloudpilot-ai/terraform-cloudpilotai-gke](https://github.com/cloudpilot-ai/terraform-cloudpilotai-gke)
+4. 🗣 Commented on [#12](https://github.com/cloudpilot-ai/terraform-cloudpilotai-eks/pull/12#issuecomment-4978667757) in [cloudpilot-ai/terraform-cloudpilotai-eks](https://github.com/cloudpilot-ai/terraform-cloudpilotai-eks)
+5. 🗣 Commented on [#32](https://github.com/cloudpilot-ai/terraform-provider-cloudpilotai/pull/32#issuecomment-4978666811) in [cloudpilot-ai/terraform-provider-cloudpilotai](https://github.com/cloudpilot-ai/terraform-provider-cloudpilotai)
+6. 🗣 Commented on [#28](https://github.com/cloudpilot-ai/terraform-provider-cloudpilotai/pull/28#issuecomment-4901834940) in [cloudpilot-ai/terraform-provider-cloudpilotai](https://github.com/cloudpilot-ai/terraform-provider-cloudpilotai)
 7. 🗣 Commented on [#25](https://github.com/cloudpilot-ai/terraform-provider-cloudpilotai/pull/25#issuecomment-4861738711) in [cloudpilot-ai/terraform-provider-cloudpilotai](https://github.com/cloudpilot-ai/terraform-provider-cloudpilotai)
 8. 🗣 Commented on [#25](https://github.com/cloudpilot-ai/terraform-provider-cloudpilotai/pull/25#issuecomment-4861473189) in [cloudpilot-ai/terraform-provider-cloudpilotai](https://github.com/cloudpilot-ai/terraform-provider-cloudpilotai)
 9. 🗣 Commented on [#25](https://github.com/cloudpilot-ai/terraform-provider-cloudpilotai/pull/25#issuecomment-4852403613) in [cloudpilot-ai/terraform-provider-cloudpilotai](https://github.com/cloudpilot-ai/terraform-provider-cloudpilotai)
