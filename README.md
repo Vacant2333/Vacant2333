@@ -13,10 +13,10 @@ OpenSource Participation:
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#37](https://github.com/cloudpilot-ai/terraform-provider-cloudpilotai/pull/37#issuecomment-5322661656) in [cloudpilot-ai/terraform-provider-cloudpilotai](https://github.com/cloudpilot-ai/terraform-provider-cloudpilotai)
-2. 🗣 Commented on [#36](https://github.com/cloudpilot-ai/terraform-provider-cloudpilotai/pull/36#issuecomment-5215278121) in [cloudpilot-ai/terraform-provider-cloudpilotai](https://github.com/cloudpilot-ai/terraform-provider-cloudpilotai)
-3. 🗣 Commented on [#36](https://github.com/cloudpilot-ai/terraform-provider-cloudpilotai/pull/36#issuecomment-5215131812) in [cloudpilot-ai/terraform-provider-cloudpilotai](https://github.com/cloudpilot-ai/terraform-provider-cloudpilotai)
-4. 🗣 Commented on [#36](https://github.com/cloudpilot-ai/terraform-provider-cloudpilotai/pull/36#issuecomment-5214782562) in [cloudpilot-ai/terraform-provider-cloudpilotai](https://github.com/cloudpilot-ai/terraform-provider-cloudpilotai)
+1. 💪 Opened PR [#2](https://github.com/cloudpilot-ai/svclink/pull/2) in [cloudpilot-ai/svclink](https://github.com/cloudpilot-ai/svclink)
+2. 💪 Opened PR [#697](https://github.com/cloudpilot-ai/karpenter-provider-gcp/pull/697) in [cloudpilot-ai/karpenter-provider-gcp](https://github.com/cloudpilot-ai/karpenter-provider-gcp)
+3. 💪 Opened PR [#260](https://github.com/cloudpilot-ai/karpenter-provider-alibabacloud/pull/260) in [cloudpilot-ai/karpenter-provider-alibabacloud](https://github.com/cloudpilot-ai/karpenter-provider-alibabacloud)
+4. 💪 Opened PR [#44](https://github.com/cloudpilot-ai/hermes/pull/44) in [cloudpilot-ai/hermes](https://github.com/cloudpilot-ai/hermes)
 5. 🗣 Commented on [#35](https://github.com/cloudpilot-ai/terraform-provider-cloudpilotai/pull/35#issuecomment-5213286375) in [cloudpilot-ai/terraform-provider-cloudpilotai](https://github.com/cloudpilot-ai/terraform-provider-cloudpilotai)
 6. 🗣 Commented on [#35](https://github.com/cloudpilot-ai/terraform-provider-cloudpilotai/pull/35#issuecomment-5211798802) in [cloudpilot-ai/terraform-provider-cloudpilotai](https://github.com/cloudpilot-ai/terraform-provider-cloudpilotai)
 7. 🗣 Commented on [#35](https://github.com/cloudpilot-ai/terraform-provider-cloudpilotai/pull/35#issuecomment-5211347580) in [cloudpilot-ai/terraform-provider-cloudpilotai](https://github.com/cloudpilot-ai/terraform-provider-cloudpilotai)
