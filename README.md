@@ -13,14 +13,14 @@ OpenSource Participation:
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/cloudpilot-ai/svclink/pull/2) in [cloudpilot-ai/svclink](https://github.com/cloudpilot-ai/svclink)
-2. 💪 Opened PR [#697](https://github.com/cloudpilot-ai/karpenter-provider-gcp/pull/697) in [cloudpilot-ai/karpenter-provider-gcp](https://github.com/cloudpilot-ai/karpenter-provider-gcp)
-3. 💪 Opened PR [#260](https://github.com/cloudpilot-ai/karpenter-provider-alibabacloud/pull/260) in [cloudpilot-ai/karpenter-provider-alibabacloud](https://github.com/cloudpilot-ai/karpenter-provider-alibabacloud)
-4. 💪 Opened PR [#44](https://github.com/cloudpilot-ai/hermes/pull/44) in [cloudpilot-ai/hermes](https://github.com/cloudpilot-ai/hermes)
-5. 🗣 Commented on [#35](https://github.com/cloudpilot-ai/terraform-provider-cloudpilotai/pull/35#issuecomment-5213286375) in [cloudpilot-ai/terraform-provider-cloudpilotai](https://github.com/cloudpilot-ai/terraform-provider-cloudpilotai)
-6. 🗣 Commented on [#35](https://github.com/cloudpilot-ai/terraform-provider-cloudpilotai/pull/35#issuecomment-5211798802) in [cloudpilot-ai/terraform-provider-cloudpilotai](https://github.com/cloudpilot-ai/terraform-provider-cloudpilotai)
-7. 🗣 Commented on [#35](https://github.com/cloudpilot-ai/terraform-provider-cloudpilotai/pull/35#issuecomment-5211347580) in [cloudpilot-ai/terraform-provider-cloudpilotai](https://github.com/cloudpilot-ai/terraform-provider-cloudpilotai)
-8. 🗣 Commented on [#35](https://github.com/cloudpilot-ai/terraform-provider-cloudpilotai/pull/35#issuecomment-5211190204) in [cloudpilot-ai/terraform-provider-cloudpilotai](https://github.com/cloudpilot-ai/terraform-provider-cloudpilotai)
+1. ❌ Closed PR [#2](https://github.com/cloudpilot-ai/svclink/pull/2) in [cloudpilot-ai/svclink](https://github.com/cloudpilot-ai/svclink)
+2. ❌ Closed PR [#44](https://github.com/cloudpilot-ai/hermes/pull/44) in [cloudpilot-ai/hermes](https://github.com/cloudpilot-ai/hermes)
+3. ❌ Closed PR [#697](https://github.com/cloudpilot-ai/karpenter-provider-gcp/pull/697) in [cloudpilot-ai/karpenter-provider-gcp](https://github.com/cloudpilot-ai/karpenter-provider-gcp)
+4. ❌ Closed PR [#260](https://github.com/cloudpilot-ai/karpenter-provider-alibabacloud/pull/260) in [cloudpilot-ai/karpenter-provider-alibabacloud](https://github.com/cloudpilot-ai/karpenter-provider-alibabacloud)
+5. 💪 Opened PR [#2](https://github.com/cloudpilot-ai/svclink/pull/2) in [cloudpilot-ai/svclink](https://github.com/cloudpilot-ai/svclink)
+6. 💪 Opened PR [#697](https://github.com/cloudpilot-ai/karpenter-provider-gcp/pull/697) in [cloudpilot-ai/karpenter-provider-gcp](https://github.com/cloudpilot-ai/karpenter-provider-gcp)
+7. 💪 Opened PR [#260](https://github.com/cloudpilot-ai/karpenter-provider-alibabacloud/pull/260) in [cloudpilot-ai/karpenter-provider-alibabacloud](https://github.com/cloudpilot-ai/karpenter-provider-alibabacloud)
+8. 💪 Opened PR [#44](https://github.com/cloudpilot-ai/hermes/pull/44) in [cloudpilot-ai/hermes](https://github.com/cloudpilot-ai/hermes)
 9. 🗣 Commented on [#35](https://github.com/cloudpilot-ai/terraform-provider-cloudpilotai/pull/35#issuecomment-5211007982) in [cloudpilot-ai/terraform-provider-cloudpilotai](https://github.com/cloudpilot-ai/terraform-provider-cloudpilotai)
 10. 🗣 Commented on [#35](https://github.com/cloudpilot-ai/terraform-provider-cloudpilotai/pull/35#issuecomment-5203382037) in [cloudpilot-ai/terraform-provider-cloudpilotai](https://github.com/cloudpilot-ai/terraform-provider-cloudpilotai)
 11. 🗣 Commented on [#35](https://github.com/cloudpilot-ai/terraform-provider-cloudpilotai/pull/35#issuecomment-5202622368) in [cloudpilot-ai/terraform-provider-cloudpilotai](https://github.com/cloudpilot-ai/terraform-provider-cloudpilotai)
