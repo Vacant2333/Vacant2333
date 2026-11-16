@@ -15,10 +15,10 @@ OpenSource Participation:
 <!--START_SECTION:activity-->
 1. ❌ Closed PR [#2](https://github.com/cloudpilot-ai/svclink/pull/2) in [cloudpilot-ai/svclink](https://github.com/cloudpilot-ai/svclink)
 2. ❌ Closed PR [#44](https://github.com/cloudpilot-ai/hermes/pull/44) in [cloudpilot-ai/hermes](https://github.com/cloudpilot-ai/hermes)
-3. ❌ Closed PR [#697](https://github.com/cloudpilot-ai/karpenter-provider-gcp/pull/697) in [cloudpilot-ai/karpenter-provider-gcp](https://github.com/cloudpilot-ai/karpenter-provider-gcp)
+3. ❌ Closed PR [#697](https://github.com/karpenter-gcp/karpenter-provider-gcp/pull/697) in [karpenter-gcp/karpenter-provider-gcp](https://github.com/karpenter-gcp/karpenter-provider-gcp)
 4. ❌ Closed PR [#260](https://github.com/cloudpilot-ai/karpenter-provider-alibabacloud/pull/260) in [cloudpilot-ai/karpenter-provider-alibabacloud](https://github.com/cloudpilot-ai/karpenter-provider-alibabacloud)
 5. 💪 Opened PR [#2](https://github.com/cloudpilot-ai/svclink/pull/2) in [cloudpilot-ai/svclink](https://github.com/cloudpilot-ai/svclink)
-6. 💪 Opened PR [#697](https://github.com/cloudpilot-ai/karpenter-provider-gcp/pull/697) in [cloudpilot-ai/karpenter-provider-gcp](https://github.com/cloudpilot-ai/karpenter-provider-gcp)
+6. 💪 Opened PR [#697](https://github.com/karpenter-gcp/karpenter-provider-gcp/pull/697) in [karpenter-gcp/karpenter-provider-gcp](https://github.com/karpenter-gcp/karpenter-provider-gcp)
 7. 💪 Opened PR [#260](https://github.com/cloudpilot-ai/karpenter-provider-alibabacloud/pull/260) in [cloudpilot-ai/karpenter-provider-alibabacloud](https://github.com/cloudpilot-ai/karpenter-provider-alibabacloud)
 8. 💪 Opened PR [#44](https://github.com/cloudpilot-ai/hermes/pull/44) in [cloudpilot-ai/hermes](https://github.com/cloudpilot-ai/hermes)
 9. 🗣 Commented on [#35](https://github.com/cloudpilot-ai/terraform-provider-cloudpilotai/pull/35#issuecomment-5211007982) in [cloudpilot-ai/terraform-provider-cloudpilotai](https://github.com/cloudpilot-ai/terraform-provider-cloudpilotai)
